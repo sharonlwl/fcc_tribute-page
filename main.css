@@ -1,0 +1,51 @@
+@font-face {font-family: "BouclePlainW01"; src: url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.eot"); src: url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.woff") format("woff"), url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6337186453208d6f892a8312a7c11759.svg#BouclePlainW01") format("svg"); }
+
+section {
+  padding: 20px 0px 0px 0px;
+}
+
+#main {
+  background: #D3DEF0;
+  font-family: Noto Sans, sans-serif;
+  font-size: 18px;
+  margin: 2% 2% 0% 2%;
+  padding: 5%;
+}
+
+#title {
+  font-size: 70px;
+  font-family: "BouclePlainW01", Noto Sans, sans-serif;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  padding: 10px 100px 10px 100px;
+}
+
+#footer {
+  background: #ADC1E3;
+  margin: 0% 2% 2% 2%;
+  padding: 2%;
+  font-family: Noto Sans, sans-serif;
+  text-align: center;
+}
+
+span.year {
+   font-weight: bold;
+}
+
+span.product {
+  font-family: "BouclePlainW01", Noto Sans, sans-serif;
+  font-weight: bold;
+}
